@@ -1,0 +1,46 @@
+body{
+    background-color: lightskyblue;
+    text-align: center;
+}
+
+p{
+    font-family: monospace;
+    text-align: center;
+    color: darkslategrey;
+}
+
+.povratak{
+    float: left;
+    color: darkblue;
+}
+
+img{
+    text-align: center;
+    width: 680px;
+    height: 460px;
+}
+
+.tablica{
+    margin: 0px auto;
+}
+
+a{
+    text-align: center;
+    color: darkblue;
+}
+
+.povratak:hover{
+    color: darkviolet;
+}
+
+a:hover{
+    color: darkviolet;
+}
+
+.povratak:visited{
+    color: maroon;
+}
+
+a:visited{
+    color: maroon;
+}
